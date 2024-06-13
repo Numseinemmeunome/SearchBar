@@ -1,2 +1,2 @@
 # SearchBar
-A little study in SearchBars
+A little study in SearchBars and filtering data
